@@ -546,10 +546,16 @@ github.com/uber/jaeger-lib v2.2.0+incompatible/go.mod h1:ComeNDZlWwrWnDv8aPp0Ba6
 github.com/xlab/treeprint v0.0.0-20180616005107-d6fb6747feb6/go.mod h1:ce1O1j6UtZfjr22oyGxGLbauSBp2YVXpARAosm7dHBg=
 go.elastic.co/apm v1.5.0 h1:arba7i+CVc36Jptww3R1ttW+O10ydvnBtidyd85DLpg=
 go.elastic.co/apm v1.5.0/go.mod h1:OdB9sPtM6Vt7oz3VXt7+KR96i9li74qrxBGHTQygFvk=
+go.elastic.co/apm v1.6.0 h1:RzyNj9Qx2iXh4A8DIg/aMUdtwGFNw3R8sKO3/Hf4pqk=
+go.elastic.co/apm v1.6.0/go.mod h1:/VByR6FBtuNu1YnPHz7Gri7YiIqAoFBGVp+2xkSE8tI=
 go.elastic.co/apm/module/apmhttp v1.5.0 h1:sxntP97oENyWWi+6GAwXUo05oEpkwbiarZLqrzLRA4o=
 go.elastic.co/apm/module/apmhttp v1.5.0/go.mod h1:1FbmNuyD3ddauwzgVwFB0fqY6KbZt3JkV187tGCYYhY=
+go.elastic.co/apm/module/apmhttp v1.6.0 h1:Y67VwDNnUyq4akeiem8Wtpb222RbZCRfY3FBI0swoJk=
+go.elastic.co/apm/module/apmhttp v1.6.0/go.mod h1:pf6GS5vDxdrSF0Qy6wESRBZCRZqATSZpr658ehD5QA4=
 go.elastic.co/apm/module/apmot v1.5.0 h1:rPyHRI6Ooqjwny67au6e2eIxLZshqd7bJfAUpdgOw/4=
 go.elastic.co/apm/module/apmot v1.5.0/go.mod h1:d2KYwhJParTpyw2WnTNy8geNlHKKFX+4oK3YLlsesWE=
+go.elastic.co/apm/module/apmot v1.6.0 h1:3Tjwu25SfB2Bq+UsO8JOKYOuMzUu4s8/fS8BGkliocg=
+go.elastic.co/apm/module/apmot v1.6.0/go.mod h1:JIGFfrixcGjp8oD22PTTCvdNMfp+O+lOb5Hw4MtqxQ4=
 go.elastic.co/fastjson v1.0.0 h1:ooXV/ABvf+tBul26jcVViPT3sBir0PvXgibYB1IQQzg=
 go.elastic.co/fastjson v1.0.0/go.mod h1:PmeUOMMtLHQr9ZS9J9owrAVg0FkaZDRZJEFTTGHtchs=
 go.mongodb.org/mongo-driver v1.0.3/go.mod h1:u7ryQJ+DOzQmeO7zB6MHyr8jkEQvC8vH7qLUO4lqsUM=
