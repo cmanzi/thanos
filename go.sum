@@ -546,6 +546,8 @@ github.com/uber/jaeger-lib v2.2.0+incompatible/go.mod h1:ComeNDZlWwrWnDv8aPp0Ba6
 github.com/xlab/treeprint v0.0.0-20180616005107-d6fb6747feb6/go.mod h1:ce1O1j6UtZfjr22oyGxGLbauSBp2YVXpARAosm7dHBg=
 go.elastic.co/apm v1.5.0 h1:arba7i+CVc36Jptww3R1ttW+O10ydvnBtidyd85DLpg=
 go.elastic.co/apm v1.5.0/go.mod h1:OdB9sPtM6Vt7oz3VXt7+KR96i9li74qrxBGHTQygFvk=
+go.elastic.co/apm v1.6.0 h1:RzyNj9Qx2iXh4A8DIg/aMUdtwGFNw3R8sKO3/Hf4pqk=
+go.elastic.co/apm v1.6.0/go.mod h1:/VByR6FBtuNu1YnPHz7Gri7YiIqAoFBGVp+2xkSE8tI=
 go.elastic.co/apm/module/apmhttp v1.5.0 h1:sxntP97oENyWWi+6GAwXUo05oEpkwbiarZLqrzLRA4o=
 go.elastic.co/apm/module/apmhttp v1.5.0/go.mod h1:1FbmNuyD3ddauwzgVwFB0fqY6KbZt3JkV187tGCYYhY=
 go.elastic.co/apm/module/apmot v1.5.0 h1:rPyHRI6Ooqjwny67au6e2eIxLZshqd7bJfAUpdgOw/4=
